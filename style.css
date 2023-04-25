@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+
+header{
+    background-color: rgb(122, 41, 197);
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.titulo{
+    font-size: 50px;
+    padding: 2%;
+    color: aliceblue;
+    background-color: rgb(92, 26, 154);
+}
+
+.menu{
+    font-size: 45px;
+    margin: 8%;
+    text-decoration: none;
+    color: aliceblue;
+}
