@@ -7,4 +7,7 @@ function cadastrar(){
             alert("Preencha todos os campos.");
             return false;
         }
+        else{
+            alert("Enviado")
+        }
 }
