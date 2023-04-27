@@ -23,6 +23,20 @@ header{
     background-color: rgb(92, 26, 154);
 }
 
+.titulo_quiz{
+    font-size: 55px;
+    padding: 2%;
+    color: aliceblue;
+    background-color: rgb(92, 26, 154);
+}
+
+.titulo_sobre{
+    font-size: 55px;
+    padding: 2%;
+    color: aliceblue;
+    background-color: rgb(92, 26, 154);
+}
+
 .menu{
     font-size: 45px;
     margin: 8%;
@@ -40,6 +54,10 @@ header{
     display: flex;
 }
 
+.conteudo-sobre{
+    display: flex;
+}
+
 .texto-principal{
     width: 30%;
     color: aliceblue;
@@ -53,6 +71,96 @@ header{
 .texto-principal p{
     font-size: 26px;
     padding-top: 5%;
+}
+
+.texto-sobre1{
+    width: 30%;
+    color: aliceblue;
+    background-color: rgb(114, 59, 165);
+    margin: 3% 0 0 13%;
+    padding: 1% 3% 1% 1%;
+    border-radius: 16px;
+    box-shadow: 5px 6px 20px 2px rgb(37, 36, 36);
+}
+
+.texto-sobre1 p{
+    font-size: 26px;
+    padding-top: 10%;
+}
+
+.texto-sobre2{
+    width: 30%;
+    color: aliceblue;
+    background-color: rgb(114, 59, 165);
+    margin: 3% 0 0 13%;
+    padding: 1% 3% 1% 1%;
+    border-radius: 16px;
+    box-shadow: 5px 6px 20px 2px rgb(37, 36, 36);
+}
+
+.texto-sobre2 p{
+    font-size: 26px;
+    padding-top: 10%;
+}
+
+.texto-sobre3{
+    width: 30%;
+    color: aliceblue;
+    background-color: rgb(114, 59, 165);
+    margin: 3% 0 0 13%;
+    padding: 1% 3% 1% 1%;
+    border-radius: 16px;
+    box-shadow: 5px 6px 20px 2px rgb(37, 36, 36);
+}
+
+.texto-sobre3 p{
+    font-size: 26px;
+    padding-top: 10%;
+}
+
+.texto-sobre4{
+    width: 30%;
+    color: aliceblue;
+    background-color: rgb(114, 59, 165);
+    margin: 3% 0 0 13%;
+    padding: 1% 3% 1% 1%;
+    border-radius: 16px;
+    box-shadow: 5px 6px 20px 2px rgb(37, 36, 36);
+}
+
+.texto-sobre4 p{
+    font-size: 26px;
+    padding-top: 10%;
+}
+
+.texto-sobre5{
+    width: 30%;
+    color: aliceblue;
+    background-color: rgb(114, 59, 165);
+    margin: 3% 0 0 13%;
+    padding: 1% 3% 1% 1%;
+    border-radius: 16px;
+    box-shadow: 5px 6px 20px 2px rgb(37, 36, 36);
+}
+
+.texto-sobre5 p{
+    font-size: 26px;
+    padding-top: 10%;
+}
+
+.texto-sobre6{
+    width: 30%;
+    color: aliceblue;
+    background-color: rgb(114, 59, 165);
+    margin: 3% 0 0 13%;
+    padding: 1% 3% 1% 1%;
+    border-radius: 16px;
+    box-shadow: 5px 6px 20px 2px rgb(37, 36, 36);
+}
+
+.texto-sobre6 p{
+    font-size: 26px;
+    padding-top: 10%;
 }
 
 .vinho{
