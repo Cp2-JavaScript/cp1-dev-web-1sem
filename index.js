@@ -1,1 +1,1 @@
-//alert("Seja Bem Vindo!")
+alert("Seja Bem Vindo!")

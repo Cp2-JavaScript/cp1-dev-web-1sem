@@ -16,6 +16,8 @@ header{
     box-shadow: 5px 6px 20px 2px rgb(37, 36, 36);
 }
 
+
+/*Página Home*/
 .titulo{
     font-size: 55px;
     padding: 2%;
@@ -30,12 +32,7 @@ header{
     background-color: rgb(92, 26, 154);
 }
 
-.titulo_sobre{
-    font-size: 55px;
-    padding: 2%;
-    color: aliceblue;
-    background-color: rgb(92, 26, 154);
-}
+
 
 .menu{
     font-size: 45px;
@@ -54,10 +51,6 @@ header{
     display: flex;
 }
 
-.conteudo-sobre{
-    display: flex;
-}
-
 .texto-principal{
     width: 30%;
     color: aliceblue;
@@ -71,6 +64,23 @@ header{
 .texto-principal p{
     font-size: 26px;
     padding-top: 5%;
+}
+
+/*Página Sobre*/
+.titulo_sobre{
+    font-size: 55px;
+    padding: 2%;
+    color: aliceblue;
+    background-color: rgb(92, 26, 154);
+}
+
+.conteudo-sobre{
+    display: block;
+}
+
+.dois-textos{
+    display: flex;
+    margin-right: 5%;
 }
 
 .texto-sobre1{
