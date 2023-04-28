@@ -1,4 +1,4 @@
-alert("Seja Bem Vindo!")
+//alert("Seja Bem Vindo!")
 
 function changeColor(color) {
     document.body.style.backgroundColor = color;
