@@ -11,3 +11,4 @@ function cadastrar(){
             alert("Enviado")
         }
 }
+

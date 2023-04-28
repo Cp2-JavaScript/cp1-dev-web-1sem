@@ -35,7 +35,7 @@ header{
 
 
 .menu{
-    font-size: 45px;
+    font-size: 40px;
     margin: 8%;
     text-decoration: none;
     color: aliceblue;
@@ -43,7 +43,7 @@ header{
 
 .menu:hover{
     color: rgb(177, 50, 232);
-    font-size: 46px;
+    font-size: 42px;
     transition: 0.3s;
 }
 
@@ -64,6 +64,10 @@ header{
 .texto-principal p{
     font-size: 26px;
     padding-top: 5%;
+}
+
+.botoes{
+    text-align: center;
 }
 
 /*Página Sobre*/
