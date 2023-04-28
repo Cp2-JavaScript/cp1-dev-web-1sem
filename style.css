@@ -295,3 +295,21 @@ input{
 .conteudo-quiz{
     display: block;
 }
+
+.header-quiz{
+    margin-bottom: 3%;
+}
+
+.texto-resultado{
+    margin-left: 25%;
+    margin-bottom: 25%;
+}
+
+.texto-resultado h1{
+    font-size: 50px;
+    color: rgb(114, 59, 165);
+}
+
+#resultado{
+    font-size: 35px;
+}
